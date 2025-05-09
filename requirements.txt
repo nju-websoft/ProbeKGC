@@ -1,0 +1,12 @@
+accelerate==1.1.1
+bitsandbytes==0.45.0
+fire==0.7.0
+matplotlib==3.10.0
+matplotlib-venn==1.1.1
+numpy==1.26.4
+openai==1.56.0
+peft==0.14.0
+scikit-learn==1.6.1
+torch==2.5.1
+transformers==4.45.2
+vllm==0.6.4
